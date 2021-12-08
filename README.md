@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [choiXe](https://github.com/choiXe)
-- 🌱 I’m currently learning Front & Back-end development by utilizing AWS
+- 🌱 I’m currently learning Full Stack development by utilizing AWS
 - 📫 How to reach me: hwuiwon.kim@gatech.edu
 
 <!--
