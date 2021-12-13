@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [choiXe](https://github.com/choiXe) & [EPPEY](https://github.com/Eppey)
 - 🌱 I’m currently learning Full Stack development by utilizing AWS
-- 📫 How to reach me: hwuiwon.kim@gatech.edu
+- 📫 How to reach me: hkim@gatech.edu
 
 <!--
 **hwuiwon/hwuiwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
