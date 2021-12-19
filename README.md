@@ -1,20 +1,14 @@
-### Hi there 👋
+<div align=center>
 
-- 🔭 I’m currently working on [choiXe](https://github.com/choiXe) & [EPPEY](https://github.com/Eppey)
-- 🌱 I’m currently learning Full Stack development by utilizing AWS
-- 📫 How to reach me: hkim@gatech.edu
+Hello, I am a **Developer** interested in **Full-stack & Cloud Services** \
+You can reach me out at hkim@gatech.edu
+  
+Projects: [choiXe](https://github.com/choiXe) • [EPPEY](https://github.com/Eppey/eppey)
 
-<!--
-**hwuiwon/hwuiwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFF&style=flat-square)
+ 
+[![Hwuiwon's stats](https://github-readme-stats.vercel.app/api?username=hwuiwon&theme=discord_old_blurple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
