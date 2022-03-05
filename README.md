@@ -2,8 +2,8 @@ __👋 Hi there, I’m Hwuiwon.__
 ---   
 __Interests__
 - Fintech
-- Autonomous Driving
 - Computer Vision
+- Autonomous Driving
 
 __Working Experiences__ 
 - Incoming Software Engineer Intern at [Argo AI](https://www.argo.ai) \[Present]
