@@ -1,8 +1,8 @@
 __👋 Hi there, I’m Hwuiwon.__   
 ---   
 __Interests__
-- Fintech
 - Computer Vision
+- Machine Learning
 - Autonomous Driving
 
 __Working Experiences__ 
