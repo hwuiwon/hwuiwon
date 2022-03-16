@@ -3,7 +3,7 @@ __👋 Hi there, I’m Hwuiwon.__
 __Interests__
 - Computer Vision
 - Machine Learning
-- Autonomous Driving
+- and most importantly... making positive impacts!
 
 __Working Experiences__ 
 - Incoming Software Engineer Intern at [Rippling](https://www.rippling.com) (Fall 2022)
