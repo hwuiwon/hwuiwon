@@ -6,7 +6,6 @@ __Interests__
 - and most importantly... making positive impacts!
 
 __Working Experiences__ 
-- Incoming Software Engineer Intern at [Rippling](https://www.rippling.com) (Fall 2022)
 - Incoming Software Engineer Intern at [Argo AI](https://www.argo.ai) (Summer 2022)
 - Co-Founder, Software Engineer at [Eppey](https://www.linkedin.com/company/eppey/) \[Present]
 - Project Team Intern at [Bain & Company](https://www.bain.com)
