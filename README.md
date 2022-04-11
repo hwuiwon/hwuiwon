@@ -9,6 +9,7 @@ __Interests__
 
 __Working Experiences__ 
 - Incoming Software Engineer Intern at [Argo AI](https://www.argo.ai) (Summer 2022)
+- Co-Founder, Software Engineer at [Eppey](https://www.linkedin.com/company/eppey/) \[Present]
 - Project Team Intern at [Bain & Company](https://www.bain.com)
 - Research Assistant at [Kearney](https://www.kearney.com)
 
