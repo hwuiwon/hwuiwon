@@ -14,10 +14,11 @@ __👋 Hi there, I’m Hwuiwon.__
 __Interests__
 - Computer Vision
 - Machine Learning
+- Blockchain & Web 3.0
 
 __Working Experiences__ 
-- Incoming Software Engineer Intern at [Argo AI](https://www.argo.ai) (Summer 2022)
-- Co-Founder, Software Engineer at [Eppey](https://www.linkedin.com/company/eppey/) \[Present]
+- Software Engineer Intern at [Argo AI](https://www.argo.ai) (Summer 2022)
+- Co-Founder, Software Engineer at [Eppey](https://www.linkedin.com/company/eppey/)
 - Project Team Intern at [Bain & Company](https://www.bain.com)
 - Research Assistant at [Kearney](https://www.kearney.com)
 
