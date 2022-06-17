@@ -16,7 +16,8 @@ __Interests__
 - Machine Learning
 
 __Working Experiences__
-- Software Engineer Intern at [Argo AI](https://www.argo.ai) \[Current]
+- Incoming Software Engineer Intern at [Rippling](https://www.rippling.com/) (Fall 2022)
+- Software Engineer Intern at [Argo AI](https://www.argo.ai) (Current)
 - Co-Founder, Software Engineer at [Eppey](https://www.linkedin.com/company/eppey/)
 - Project Team Intern at [Bain & Company](https://www.bain.com)
 - Research Assistant at [Kearney](https://www.kearney.com)
