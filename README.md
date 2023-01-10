@@ -1,4 +1,4 @@
-__👋 Hi there, I’m [Hwuiwon](https://www.linkedin.com/in/hueyk/)!__   
+__👋 Hi there, I’m [Levi](https://www.linkedin.com/in/hueyk/)!__   
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFF&style=flat-square)
