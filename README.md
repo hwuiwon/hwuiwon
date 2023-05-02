@@ -1,4 +1,4 @@
-__👋 Hi there, I’m [Levi](https://www.linkedin.com/in/hueyk/)!__   
+__👋 Hi there, I’m [Hwuiwon](https://www.linkedin.com/in/hueyk/)!__   
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFF&style=flat-square)
@@ -13,7 +13,7 @@ __👋 Hi there, I’m [Levi](https://www.linkedin.com/in/hueyk/)!__
 
 I'm currently a junior at Georgia Tech majoring in CS. Previously, I was a
 
-- Incoming Software Engineer Intern at [Apple](https://www.apple.com/)
+- Software Engineer Intern at [Apple](https://www.apple.com/)
 - Software Engineer Intern at [Rippling](https://www.rippling.com/)
 - Software Engineer Intern at [Argo AI](https://www.argo.ai)
 - Founding Software Engineer at [Lambda Lab](https://www.linkedin.com/company/eppey/)
