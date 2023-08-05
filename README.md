@@ -1,25 +1,21 @@
-__👋 Hi there, I’m [Hwuiwon](https://www.linkedin.com/in/hueyk/)!__   
----
+### Hi there, I'm Hwuiwon 👋
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFF&style=flat-square)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=FFF&style=flat-square)
-![Rust](https://shields.io/badge/Rust-FFC733?logo=Rust&logoColor=000&style=flat-square)
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![C](https://shields.io/badge/C-00599C?logo=c&logoColor=fff&style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=FFF&style=flat-square)
-![NodeJS](https://img.shields.io/badge/Node.JS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E.svg?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=FFF&style=flat-square)
+![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=FFF&style=flat-square)
+![Rust](https://shields.io/badge/Rust-black?logo=Rust&logoColor=FFF&style=flat-square)
+![TypeScript](https://shields.io/badge/TypeScript-black?logo=TypeScript&logoColor=FFF&style=flat-square)
+![JavaScript](https://shields.io/badge/JavaScript-black?logo=JavaScript&logoColor=FFF&style=flat-square)
+![C](https://shields.io/badge/C-black?logo=c&logoColor=fff&style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-black?logo=graphql&logoColor=FFF&style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-black.svg?style=flat-square&logo=amazon-aws&logoColor=FFF)
 
-I'm currently a junior at Georgia Tech majoring in CS. Previously, I was a
+I'm currently a seinor at Georgia Tech majoring in CS passionate about NLP, Generative AI, and Distributed Computing.
 
-- Software Engineer Intern at [Apple](https://www.apple.com/)
-- Software Engineer Intern at [Rippling](https://www.rippling.com/)
-- Software Engineer Intern at [Argo AI](https://www.argo.ai)
-- Founding Software Engineer at [Lambda Lab](https://www.linkedin.com/company/eppey/)
+
+Experiences
+- Software Engineer Intern at [Apple](https://www.apple.com/), [Rippling](https://www.rippling.com/), [Argo AI](https://www.argo.ai)
 - Associate Consultant Trainee at [Bain & Company](https://www.bain.com)
 - Research Analyst at [Kearney](https://www.kearney.com)
 
-[![Hwuiwon's github stats](https://github-readme-stats.vercel.app/api?username=hwuiwon&count_private=true&show_icons=true&hide_border=true&theme=transparent)](https://github.com/hwuiwon)
+Open Source Contributions
+- [llama_index](https://github.com/jerryjliu/llama_index) 🦙
