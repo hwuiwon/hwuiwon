@@ -1,4 +1,4 @@
-### Hi there, I'm Hwuiwon 👋
+### Hi there, I'm [Hwuiwon](http://linkedin.com/in/hueyk/) 👋
 
 ![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=FFF&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=FFF&style=flat-square)
