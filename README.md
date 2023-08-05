@@ -15,7 +15,7 @@ I'm currently a seinor at Georgia Tech majoring in CS passionate about NLP, Gene
 Experiences
 - Software Engineer Intern at [Apple](https://www.apple.com/), [Rippling](https://www.rippling.com/), [Argo AI](https://www.argo.ai)
 - Associate Consultant Trainee at [Bain & Company](https://www.bain.com)
-- Research Analyst at [Kearney](https://www.kearney.com)
+- Research Analyst at [Kearney](https://www.kearney.com), [Looxent](https://www.looxent.com/en/)
 
 Open Source Contributions
 - [llama_index](https://github.com/jerryjliu/llama_index) 🦙
