@@ -18,7 +18,7 @@ Experiences
 - Associate Consultant Trainee at [Bain & Company](https://www.bain.com)
 - Research Analyst at [Kearney](https://www.kearney.com), [Looxent](https://www.looxent.com/en/)
 
-Fun thing(s) I'm working on
+Fun stuff(s) I'm working on
 - [Prism AI](https://www.tryprism.ai/)
 
 Open Source Contributions
