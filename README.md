@@ -9,7 +9,7 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-black?logo=graphql&logoColor=FFF&style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-black.svg?style=flat-square&logo=amazon-aws&logoColor=FFF)
 
-I'm currently a seinor at Georgia Tech majoring in CS passionate about NLP, Generative AI, and Distributed Computing.
+I'm currently a seinor at Georgia Tech majoring in CS passionate about NLP, Generative AI, and making a world a better place.
 
 
 Experiences
@@ -22,4 +22,4 @@ Fun stuff(s) I'm working on
 - [Prism AI](https://www.tryprism.ai/)
 
 Open Source Contributions
-- [llama_index](https://github.com/jerryjliu/llama_index) 🦙
+- [llama_index](https://github.com/jerryjliu/llama_index)
