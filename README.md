@@ -9,8 +9,7 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-black?logo=graphql&logoColor=FFF&style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-black.svg?style=flat-square&logo=amazon-aws&logoColor=FFF)
 
-Currently helping vehicles to drive themselves! & interested in developing scalable APIs, infrastructure, and systems for serving and training ML models
-
+Currently helping vehicles to drive themselves! 🚗 🚙 🚕
 
 Experiences
 - Software Engineer at [Stack AV](https://www.stackav.com/)
