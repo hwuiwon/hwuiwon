@@ -9,7 +9,7 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-black?logo=graphql&logoColor=FFF&style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-black.svg?style=flat-square&logo=amazon-aws&logoColor=FFF)
 
-I'm currently a seinor at Georgia Tech majoring in CS interested in developing scalable APIs, infrastructure, and systems for serving and training ML models
+Currently helping vehicles to drive themselves! & interested in developing scalable APIs, infrastructure, and systems for serving and training ML models
 
 
 Experiences
