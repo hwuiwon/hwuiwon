@@ -9,7 +9,7 @@
 ![C](https://shields.io/badge/C-black?logo=c&logoColor=fff&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/GraphQL-black?logo=graphql&logoColor=FFF&style=flat-square)
 
-Currently helping vehicles to drive themselves! 🚗 🚙 🚕
+Building Conversational AI Agents for Customer Support
 
 Experiences
 - Founding Engineer at [Applied Labs](https://appliedlabs.ai/)
