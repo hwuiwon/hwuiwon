@@ -18,7 +18,6 @@ Experiences
 - Associate Consultant Trainee at [Bain & Company](https://www.bain.com)
 - Research Analyst at [Kearney](https://www.kearney.com), [Looxent](https://www.looxent.com/en/)
 
-Open Source Contributions
+Main Open Source Contributions
 - [pipecat](https://github.com/pipecat-ai/pipecat)
 - [livekit](https://github.com/livekit/livekit)
-- [llama_index](https://github.com/jerryjliu/llama_index)
